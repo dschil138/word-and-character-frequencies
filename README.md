@@ -4,6 +4,7 @@
 An informal analysis, but one of my favorites. Contains character frequency analyses both including and not including coding text in the input corpus. It also has some word frequency AND symbol frequency! Symbol frequency can be surprisingly hard to find.
 
 <img width="878" alt="Screenshot 2023-07-29 at 3 31 59 PM" src="https://github.com/dschil138/word-and-character-frequencies/assets/11950317/42d47a24-6313-47a4-8d74-e8315456f0ba">
+
 <center><i>Example screenshot from site</i></center>
 
 https://mdickens.me/typing/letter_frequency.html 
@@ -24,7 +25,8 @@ http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 Peter took the Google Ngram data and made it useful. Basically a distillation of all the important stuff you would want to know, presented in a much more helpful format. Much better.
 
 <img width="797" alt="Screenshot 2023-07-29 at 3 33 09 PM" src="https://github.com/dschil138/word-and-character-frequencies/assets/11950317/3b2c88bb-5f52-414f-ae32-1626019a952d">
-<center>Example screenshot from site</center>
+
+<center><i>Example screenshot from site</i></center>
 
 http://norvig.com/mayzner.html
 
@@ -39,6 +41,7 @@ https://ucrel.lancs.ac.uk/bncfreq/flists.html
 What can we say about Vivian Cook. Idk who this woman is, or why she put this data together. Her website is terrible. But her data is incredible.
 
 <img width="506" alt="Screenshot 2023-07-29 at 3 35 20 PM" src="https://github.com/dschil138/word-and-character-frequencies/assets/11950317/d74bddef-cf7d-4ab7-9ca6-b4c5e714e541">
+
 <center><i>Example screenshot from site</i></center>
 
 [Punctuation frequency](http://www.viviancook.uk/Punctuation/PunctFigs.htm)
